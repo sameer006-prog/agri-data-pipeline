@@ -1,0 +1,223 @@
+variety_name,crop_type,trial_year,relative_yield_score,oil_content_percentage,disease_resistance_rating,source_file
+SY Kestrel,Winterweizen,,5.0,,5.0,sample_report.pdf
+SY Zoomba,Winterweizen,,5.0,,5.0,sample_report.pdf
+Lomerit,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Melia,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Mizzi,Wintergerste,2019.0,8.0,,6.0,sample_report.pdf
+Paradies,Wintergerste,2019.0,5.0,,6.0,sample_report.pdf
+Pixel,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Quadriga,Wintergerste,2019.0,8.0,,6.0,sample_report.pdf
+RGT Alessia,Wintergerste,2019.0,8.0,,7.0,sample_report.pdf
+RGT Mela,Wintergerste,2019.0,8.0,,7.0,sample_report.pdf
+Semper,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Stella,Wintergerste,2019.0,8.0,,6.0,sample_report.pdf
+SU Hetti,Wintergerste,2019.0,9.0,,7.0,sample_report.pdf
+Jule,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+Laurielle,Wintergerste,2019.0,,,,sample_report.pdf
+Laurielle,Wintergerste,2019.0,5.0,,3.0,sample_report.pdf
+Lenoria,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Lenoria,Wintergerste,2019.0,5.0,,3.0,sample_report.pdf
+Majella,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Majella,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Midnight,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Midnight,Wintergerste,2019.0,5.0,,2.0,sample_report.pdf
+Virtuosa,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Virtuosa,Wintergerste,2019.0,5.0,,2.0,sample_report.pdf
+Yette,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Yette,Wintergerste,2019.0,7.0,,3.0,sample_report.pdf
+Baracooda,Wintergerste,2019.0,7.0,,4.0,sample_report.pdf
+Baracooda,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+Colyseoo,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+Colyseoo,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+Dakoota,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+Dakoota,Wintergerste,2019.0,7.0,,3.0,sample_report.pdf
+Galileoo,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Galileoo,Wintergerste,2019.0,5.0,,2.0,sample_report.pdf
+Heroo,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Heroo,Wintergerste,2019.0,5.0,,2.0,sample_report.pdf
+Kestrel,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+Kestrel,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Zoomba,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Zoomba,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Teuto,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Teuto,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+Titus,Wintergerste,2019.0,,,,sample_report.pdf
+Titus,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Viola,Wintergerste,2019.0,4.0,,6.0,sample_report.pdf
+Viola,Wintergerste,2019.0,5.0,,2.0,sample_report.pdf
+Waxyma,Wintergerste,2019.0,,,,sample_report.pdf
+Waxyma,Wintergerste,2019.0,3.0,,3.0,sample_report.pdf
+Wenke,Wintergerste,2019.0,,,,sample_report.pdf
+Wenke,Wintergerste,2019.0,4.0,,2.0,sample_report.pdf
+Lomerit,Wintergerste,2019.0,,,,sample_report.pdf
+Lomerit,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+Melia,Wintergerste,2019.0,7.0,,3.0,sample_report.pdf
+Melia,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+Mizzi,Wintergerste,2019.0,,,,sample_report.pdf
+Mizzi,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Paradies,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Paradies,Wintergerste,2019.0,5.0,,3.0,sample_report.pdf
+Pixel,Wintergerste,2019.0,,,,sample_report.pdf
+Pixel,Wintergerste,2019.0,5.0,,2.0,sample_report.pdf
+Quadriga,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Quadriga,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+RGT Alessia,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+RGT Alessia,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+RGT Mela,Wintergerste,2019.0,7.0,,3.0,sample_report.pdf
+RGT Mela,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+Semper,Wintergerste,2019.0,,,,sample_report.pdf
+Semper,Wintergerste,2019.0,6.0,,2.0,sample_report.pdf
+Stella,Wintergerste,2019.0,5.0,,3.0,sample_report.pdf
+Stella,Wintergerste,2019.0,6.0,,3.0,sample_report.pdf
+SU Hetti,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+Hetti,Wintergerste,2019.0,5.0,,5.0,sample_report.pdf
+Jule,Wintergerste,2019.0,5.0,,5.0,sample_report.pdf
+Jule,Wintergerste,2019.0,7.0,,5.0,sample_report.pdf
+Laurielle,Wintergerste,2019.0,,,,sample_report.pdf
+Laurielle,Wintergerste,2019.0,8.0,,5.0,sample_report.pdf
+Lenoria,Wintergerste,2019.0,4.0,,4.0,sample_report.pdf
+Lenoria,Wintergerste,2019.0,8.0,,5.0,sample_report.pdf
+Majella,Wintergerste,2019.0,6.0,,6.0,sample_report.pdf
+Majella,Wintergerste,2019.0,9.0,,6.0,sample_report.pdf
+Midnight,Wintergerste,2019.0,4.0,,6.0,sample_report.pdf
+Midnight,Wintergerste,2019.0,7.0,,5.0,sample_report.pdf
+Virtuosa,Wintergerste,2019.0,4.0,,7.0,sample_report.pdf
+Virtuosa,Wintergerste,2019.0,7.0,,5.0,sample_report.pdf
+Yette,Wintergerste,2019.0,3.0,,6.0,sample_report.pdf
+Yette,Wintergerste,2019.0,8.0,,7.0,sample_report.pdf
+Baracooda,Wintergerste,2019.0,5.0,,7.0,sample_report.pdf
+Baracooda,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Colyseoo,Wintergerste,2019.0,5.0,,3.0,sample_report.pdf
+Colyseoo,Wintergerste,2019.0,6.0,,6.0,sample_report.pdf
+Dakoota,Wintergerste,2019.0,5.0,,5.0,sample_report.pdf
+Dakoota,Wintergerste,2019.0,6.0,,7.0,sample_report.pdf
+Galileoo,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+Galileoo,Wintergerste,2019.0,7.0,,5.0,sample_report.pdf
+Heroo,Wintergerste,2019.0,5.0,,3.0,sample_report.pdf
+Heroo,Wintergerste,2019.0,7.0,,5.0,sample_report.pdf
+Kestrel,Wintergerste,2019.0,5.0,,6.0,sample_report.pdf
+Kestrel,Wintergerste,2019.0,8.0,,6.0,sample_report.pdf
+Zoomba,Wintergerste,2019.0,5.0,,5.0,sample_report.pdf
+Zoomba,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Teuto,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Teuto,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Titus,Wintergerste,2019.0,,,,sample_report.pdf
+Titus,Wintergerste,2019.0,7.0,,6.0,sample_report.pdf
+Viola,Wintergerste,2019.0,4.0,,6.0,sample_report.pdf
+Viola,Wintergerste,2019.0,6.0,,5.0,sample_report.pdf
+Waxyma,Wintergerste,2019.0,,,,sample_report.pdf
+Waxyma,Wintergerste,2019.0,4.0,,3.0,sample_report.pdf
+Wenke,Wintergerste,2019.0,,,,sample_report.pdf
+Wenke,Wintergerste,2019.0,7.0,,4.0,sample_report.pdf
+Winnie,Wintergerste,2019.0,6.0,,4.0,sample_report.pdf
+Winnie,Wintergerste,2019.0,8.0,,6.0,sample_report.pdf
+Amaranta,Wintergerste,2019.0,6.0,,5.0,sample_report.pdf
+Finola,Wintergerste,2019.0,3.0,,7.0,sample_report.pdf
+Jettoo,Wintergerste,2019.0,5.0,,4.0,sample_report.pdf
+KWS Antonis,Wintergerste,2019.0,5.0,,6.0,sample_report.pdf
+Sensation,Wintergerste,2019.0,3.0,,5.0,sample_report.pdf
+Winnie,Wintergerste,,,,,sample_report.pdf
+Amaranta,Wintergerste,,,,,sample_report.pdf
+Finola,Wintergerste,,,,,sample_report.pdf
+Jettoo,Wintergerste,,,,,sample_report.pdf
+KWS Antonis,Wintergerste,,,,,sample_report.pdf
+Sensation,Wintergerste,,,,,sample_report.pdf
+SY Armadillo,Wintergerste,,,,,sample_report.pdf
+SY Loona,Wintergerste,,,,,sample_report.pdf
+Venezia,Wintergerste,,,,,sample_report.pdf
+Agostina,Wintergerste,,,,,sample_report.pdf
+Almut,Wintergerste,,,,,sample_report.pdf
+Annemiek,Wintergerste,,,,,sample_report.pdf
+Aretha,Wintergerste,,,,,sample_report.pdf
+Aros,Wintergerste,,,,,sample_report.pdf
+Arthene,Wintergerste,,,,,sample_report.pdf
+Axxis,Wintergerste,,,,,sample_report.pdf
+Bianca,Wintergerste,,,,,sample_report.pdf
+Bonnovi,Wintergerste,,,,,sample_report.pdf
+Bordeaux,Wintergerste,,,,,sample_report.pdf
+California,Wintergerste,,,,,sample_report.pdf
+Collie,Wintergerste,,,,,sample_report.pdf
+Comtesse,Wintergerste,,,,,sample_report.pdf
+Craft,Wintergerste,,,,,sample_report.pdf
+Desiree,Wintergerste,,,,,sample_report.pdf
+Frieda,Wintergerste,,,,,sample_report.pdf
+Gerda,Wintergerste,,,,,sample_report.pdf
+Goldmarie,Wintergerste,,,,,sample_report.pdf
+Isidora,Wintergerste,,,,,sample_report.pdf
+Jeanie,Wintergerste,,,,,sample_report.pdf
+Kiss,Wintergerste,,,,,sample_report.pdf
+Kitty,Wintergerste,,,,,sample_report.pdf
+KWS Andris,Wintergerste,1999.0,4.0,,7.0,sample_report.pdf
+KWS Ariane,Wintergerste,1999.0,4.0,,7.0,sample_report.pdf
+KWS Donau,Wintergerste,1999.0,4.0,,7.0,sample_report.pdf
+KWS Kanaris,Wintergerste,1999.0,5.0,,7.0,sample_report.pdf
+KWS Moselle,Wintergerste,1999.0,4.0,,7.0,sample_report.pdf
+KWS Scala,Wintergerste,1999.0,4.0,,7.0,sample_report.pdf
+KWS Somerset,Wintergerste,1998.0,4.0,,7.0,sample_report.pdf
+KWS Tardis,Wintergerste,1998.0,4.0,,7.0,sample_report.pdf
+Agostina,Wintergerste,1999.0,5.0,,8.0,sample_report.pdf
+Almut,Wintergerste,1998.0,3.0,,7.0,sample_report.pdf
+Annemiek,Wintergerste,1997.0,4.0,,7.0,sample_report.pdf
+Aretha,Wintergerste,1998.0,6.0,,7.0,sample_report.pdf
+Aros,Wintergerste,1999.0,4.0,,6.0,sample_report.pdf
+Arthene,Wintergerste,1998.0,3.0,,7.0,sample_report.pdf
+Axxis,Wintergerste,1999.0,5.0,,6.0,sample_report.pdf
+Bianca,Wintergerste,1997.0,4.0,,5.0,sample_report.pdf
+Bonnovi,Wintergerste,1998.0,4.0,,5.0,sample_report.pdf
+Bordeaux,Wintergerste,1999.0,4.0,,6.0,sample_report.pdf
+California,Wintergerste,1998.0,4.0,,5.0,sample_report.pdf
+Collie,Wintergerste,1999.0,6.0,,7.0,sample_report.pdf
+Comtesse,Wintergerste,1999.0,6.0,,5.0,sample_report.pdf
+Craft,Wintergerste,1999.0,,,5.0,sample_report.pdf
+Desiree,Wintergerste,1998.0,5.0,,4.0,sample_report.pdf
+Frieda,Wintergerste,1998.0,4.0,,6.0,sample_report.pdf
+Gerda,Wintergerste,1997.0,5.0,,7.0,sample_report.pdf
+Goldmarie,Wintergerste,1999.0,7.0,,7.0,sample_report.pdf
+Isidora,Wintergerste,1991.0,6.0,,4.0,sample_report.pdf
+Jeanie,Wintergerste,1999.0,,,,sample_report.pdf
+Kiss,Wintergerste,1999.0,4.0,,6.0,sample_report.pdf
+Kitty,Wintergerste,1999.0,3.0,,7.0,sample_report.pdf
+Lautetia,Wintergerste,,4.0,,4.0,sample_report.pdf
+LG Caiman,Wintergerste,,6.0,,4.0,sample_report.pdf
+LG Callista,Wintergerste,,5.0,,4.0,sample_report.pdf
+LG Cascade,Wintergerste,,6.0,,4.0,sample_report.pdf
+Lyberac,Wintergerste,,5.0,,4.0,sample_report.pdf
+Lyberac,Winterraps,,,,,sample_report.pdf
+Mirador,Winterraps,,,,,sample_report.pdf
+Normandy,Winterraps,,,,,sample_report.pdf
+Orcade,Winterraps,,,,,sample_report.pdf
+Organa,Winterraps,,,,,sample_report.pdf
+Osanna,Winterraps,,,,,sample_report.pdf
+Padura,Winterraps,,,,,sample_report.pdf
+Paquita,Winterraps,,,,,sample_report.pdf
+Queen,Winterraps,,,,,sample_report.pdf
+Royce,Winterraps,,,,,sample_report.pdf
+Sandra,Winterraps,,,,,sample_report.pdf
+SU Celly,Winterraps,,,,,sample_report.pdf
+SU Laubella,Winterraps,,,,,sample_report.pdf
+SU Vireni,Winterraps,,,,,sample_report.pdf
+SU Xandora,Winterraps,,,,,sample_report.pdf
+Valerie,Winterraps,,,,,sample_report.pdf
+Valhalla,Winterraps,,,,,sample_report.pdf
+Winterset,Winterraps,,,,,sample_report.pdf
+Zita,Winterraps,,,,,sample_report.pdf
+Zophia,Winterraps,,,,,sample_report.pdf
+LG Campus,Winterraps,,,,,sample_report.pdf
+Suez,Winterraps,,,,,sample_report.pdf
+Lautetia,Wintergerste,,,,,sample_report.pdf
+LG Caiman,Wintergerste,,,,,sample_report.pdf
+LG Callista,Wintergerste,,,,,sample_report.pdf
+LG Cascade,Wintergerste,,,,,sample_report.pdf
+Lottie,Wintergerste,,,,,sample_report.pdf
+Lyberac,Wintergerste,,,,,sample_report.pdf
+Mirador,Wintergerste,,,,,sample_report.pdf
+Normandy,Wintergerste,,,,,sample_report.pdf
+Orcade,Wintergerste,,,,,sample_report.pdf
+Esprit,Wintergerste,,,,,sample_report.pdf
+Julia,Wintergerste,,,,,sample_report.pdf
+KWS Flemming,Wintergerste,,,,,sample_report.pdf
+Melia,Wintergerste,,,,,sample_report.pdf
+SU Midnight,Wintergerste,,,,,sample_report.pdf
+Valena,Wintergerste,,,,,sample_report.pdf
+Edana,Wintergerste,,,,,sample_report.pdf
+Normandy,Wintergerste,,,,,sample_report.pdf
