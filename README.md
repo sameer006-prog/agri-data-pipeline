@@ -1,7 +1,7 @@
 # Agricultural PDF Data Pipeline: Unstructured to ERP-Ready
 
 ## Overview
-In enterprise logistics and data migration projects—such as transitioning to SAP S/4HANA—unstructured vendor documents often create massive bottlenecks. This project is an automated, AI-driven data extraction pipeline that ingests dense, unstructured German agricultural reports (e.g., Bundessortenamt PDFs), parses the text, and extracts strict, structured records using a local LLM.
+In enterprise logistics and data migration projects such as transitioning to SAP S/4HANA unstructured vendor documents often create massive bottlenecks. This project is an automated, AI-driven data extraction pipeline that ingests dense, unstructured German agricultural reports (e.g., Bundessortenamt PDFs), parses the text, and extracts strict, structured records using a local LLM.
 
 Instead of manual data entry, the pipeline processes documents in batch and automatically passes the extracted data through a Pandas-based quality gate, ensuring only validated, perfectly formatted data reaches the target database.
 
